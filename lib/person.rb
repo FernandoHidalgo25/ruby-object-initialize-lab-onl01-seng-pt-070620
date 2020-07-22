@@ -1,6 +1,6 @@
 class Person
   def name=(name)
-    @name = mame
+    @name = name
   end
  
   def name
