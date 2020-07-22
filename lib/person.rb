@@ -8,6 +8,6 @@ class Person
   end
 end
 
-beyonce = Person.name
+beyonce = Person.new
 beyonce = "Beyonce"
 beyonce.name 
