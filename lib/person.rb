@@ -11,3 +11,16 @@ end
 beyonce = Person.new
 beyonce = "Beyonce"
 beyonce.name
+class Dog
+  def initialize(breed)
+    @breed = breed
+  end
+ 
+  def breed=(breed)
+    @breed = breed
+  end
+ 
+  def breed
+    @breed
+  end
+end
