@@ -9,3 +9,5 @@ class Person
 end
 
 beyonce = Person.new 
+beyonce = "Beyonce"
+beyonce.name 
