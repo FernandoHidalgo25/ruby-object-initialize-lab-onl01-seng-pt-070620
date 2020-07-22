@@ -12,7 +12,3 @@ class Person
   end
   
 end
-
-beyonce = Person.new
-beyonce = "Beyonce"
-beyonce.name
