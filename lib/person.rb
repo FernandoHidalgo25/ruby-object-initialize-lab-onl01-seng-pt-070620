@@ -10,4 +10,4 @@ end
 
 beyonce = Person.new
 beyonce = "Beyonce"
-beyonce.@name
+beyonce.name
